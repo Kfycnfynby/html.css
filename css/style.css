@@ -1,0 +1,48 @@
+.testimonials {
+  padding: 50px;
+  text-align: center;
+}
+
+.testimonials_header  {
+  margin-bottom: 20px;
+}
+
+.testimonials_header a {
+  color: aqua;  
+}
+
+.testimonials_header h2 {
+  margin-bottom: 20px;
+}
+
+.testimonials_images {
+  text-align: center;
+}
+
+.testimonials_images {
+  padding: 10px 20px;
+}
+
+.testimonials_blockquote  {
+  font-style: italic;
+}
+
+.testimonials_sing h4 {
+  color: aqua;
+}
+
+.testimonials_sing p {
+  margin-bottom: 20px;
+}
+
+.testimonials_pagination {
+    text-align: center;
+}
+
+.dot {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid aqua;
+    margin: 0 5;
+}
