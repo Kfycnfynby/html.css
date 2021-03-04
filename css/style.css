@@ -49,3 +49,35 @@
     display: inline-block;
     padding: 50;
 }
+
+
+.cloud {
+  padding: 20px;
+}
+
+.cloud_header {
+  text-align: center;
+}
+
+.cloud_header p {
+  color:#00ffff
+}
+
+
+.main {
+ width: 45%;
+ float: left;
+ padding: 20px;
+ margin :0 5px 5px 0;
+ border: 1px solid #ccc;
+ box-shadow: 16px 19px 29px -11px rgba(184, 153, 78, 0.74);
+}
+.main_image {
+  float: left;
+}
+
+.main_image img {
+  height: 125px;
+  width: 100px;
+  margin-right:20px ;
+}
